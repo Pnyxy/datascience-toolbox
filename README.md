@@ -1,6 +1,6 @@
 # datascience-toolbox
 
-INFO:
+INFORMATIONS:
 
 github: https://github.com/Pnyxy/datascience-toolbox
 
