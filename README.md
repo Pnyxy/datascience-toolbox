@@ -5,4 +5,4 @@ github: https://github.com/Pnyxy/datascience-toolbox
 
 datascience-toolbox
 
-test
+Authentication with personal access token
