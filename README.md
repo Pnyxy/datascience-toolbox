@@ -5,6 +5,6 @@ github: https://github.com/Pnyxy/datascience-toolbox
 
 passphrase: azerty123
 
-password: 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
+password: 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
 
 datascience-toolbox
